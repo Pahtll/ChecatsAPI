@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C69952-7325-4270-9C67-54AC0C4F4394}|ChecatsAPI.API\\Checats.API.csproj|c:\\users\\astah\\riderprojects\\checatsapi\\checatsapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C69952-7325-4270-9C67-54AC0C4F4394}|ChecatsAPI.API\\Checats.API.csproj|solutionrelative:checatsapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2E3FCE-C32A-4A40-824E-6E5D66062E5F}|Checats.Application\\Checats.Application.csproj|c:\\users\\astah\\riderprojects\\checatsapi\\checats.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2E3FCE-C32A-4A40-824E-6E5D66062E5F}|Checats.Application\\Checats.Application.csproj|solutionrelative:checats.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2E3FCE-C32A-4A40-824E-6E5D66062E5F}|Checats.Application\\Checats.Application.csproj|c:\\users\\astah\\riderprojects\\checatsapi\\checats.application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2E3FCE-C32A-4A40-824E-6E5D66062E5F}|Checats.Application\\Checats.Application.csproj|solutionrelative:checats.application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C69952-7325-4270-9C67-54AC0C4F4394}|ChecatsAPI.API\\Checats.API.csproj|c:\\users\\astah\\riderprojects\\checatsapi\\checatsapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32C69952-7325-4270-9C67-54AC0C4F4394}|ChecatsAPI.API\\Checats.API.csproj|solutionrelative:checatsapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C69952-7325-4270-9C67-54AC0C4F4394}|ChecatsAPI.API\\Checats.API.csproj|c:\\users\\astah\\riderprojects\\checatsapi\\checatsapi.api\\extensions\\apiextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C69952-7325-4270-9C67-54AC0C4F4394}|ChecatsAPI.API\\Checats.API.csproj|solutionrelative:checatsapi.api\\extensions\\apiextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C69952-7325-4270-9C67-54AC0C4F4394}|ChecatsAPI.API\\Checats.API.csproj|c:\\users\\astah\\riderprojects\\checatsapi\\checatsapi.api\\endpoints\\postendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C69952-7325-4270-9C67-54AC0C4F4394}|ChecatsAPI.API\\Checats.API.csproj|solutionrelative:checatsapi.api\\endpoints\\postendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C69952-7325-4270-9C67-54AC0C4F4394}|ChecatsAPI.API\\Checats.API.csproj|c:\\users\\astah\\riderprojects\\checatsapi\\checatsapi.api\\endpoints\\commentaryendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C69952-7325-4270-9C67-54AC0C4F4394}|ChecatsAPI.API\\Checats.API.csproj|solutionrelative:checatsapi.api\\endpoints\\commentaryendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2E3FCE-C32A-4A40-824E-6E5D66062E5F}|Checats.Application\\Checats.Application.csproj|c:\\users\\astah\\riderprojects\\checatsapi\\checats.application\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2E3FCE-C32A-4A40-824E-6E5D66062E5F}|Checats.Application\\Checats.Application.csproj|solutionrelative:checats.application\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2E3FCE-C32A-4A40-824E-6E5D66062E5F}|Checats.Application\\Checats.Application.csproj|c:\\users\\astah\\riderprojects\\checatsapi\\checats.application\\services\\commentaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2E3FCE-C32A-4A40-824E-6E5D66062E5F}|Checats.Application\\Checats.Application.csproj|solutionrelative:checats.application\\services\\commentaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\Checats.Application\\Interfaces\\IPostService.cs",
+              "RelativeDocumentMoniker": "Checats.Application\\Interfaces\\IPostService.cs",
+              "ToolTip": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\Checats.Application\\Interfaces\\IPostService.cs",
+              "RelativeToolTip": "Checats.Application\\Interfaces\\IPostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:05:10Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentaryEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\ChecatsAPI.API\\Endpoints\\CommentaryEndpoints.cs",
+              "RelativeDocumentMoniker": "ChecatsAPI.API\\Endpoints\\CommentaryEndpoints.cs",
+              "ToolTip": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\ChecatsAPI.API\\Endpoints\\CommentaryEndpoints.cs",
+              "RelativeToolTip": "ChecatsAPI.API\\Endpoints\\CommentaryEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:16:53.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\ChecatsAPI.API\\Endpoints\\PostEndpoints.cs",
+              "RelativeDocumentMoniker": "ChecatsAPI.API\\Endpoints\\PostEndpoints.cs",
+              "ToolTip": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\ChecatsAPI.API\\Endpoints\\PostEndpoints.cs",
+              "RelativeToolTip": "ChecatsAPI.API\\Endpoints\\PostEndpoints.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:16:47.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiExtension.cs",
+              "DocumentMoniker": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\ChecatsAPI.API\\Extensions\\ApiExtension.cs",
+              "RelativeDocumentMoniker": "ChecatsAPI.API\\Extensions\\ApiExtension.cs",
+              "ToolTip": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\ChecatsAPI.API\\Extensions\\ApiExtension.cs",
+              "RelativeToolTip": "ChecatsAPI.API\\Extensions\\ApiExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:15:45.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\ChecatsAPI.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ChecatsAPI.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\ChecatsAPI.API\\appsettings.json",
+              "RelativeToolTip": "ChecatsAPI.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-27T02:15:31.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentaryService.cs",
+              "DocumentMoniker": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\Checats.Application\\Services\\CommentaryService.cs",
+              "RelativeDocumentMoniker": "Checats.Application\\Services\\CommentaryService.cs",
+              "ToolTip": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\Checats.Application\\Services\\CommentaryService.cs",
+              "RelativeToolTip": "Checats.Application\\Services\\CommentaryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:03:37.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\Checats.Application\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "Checats.Application\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\Checats.Application\\Services\\PostService.cs",
+              "RelativeToolTip": "Checats.Application\\Services\\PostService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA2wDsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:35:34.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\Checats.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Checats.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\Checats.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Checats.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:19:23.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\ChecatsAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "ChecatsAPI.API\\Program.cs",
+              "ToolTip": "C:\\Users\\astah\\RiderProjects\\ChecatsAPI\\ChecatsAPI.API\\Program.cs",
+              "RelativeToolTip": "ChecatsAPI.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:17:22.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@ChecatsAPI_HostAddress = http://localhost:5014
+
+GET {{ChecatsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

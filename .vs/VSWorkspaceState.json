@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Checats.Persistence",
+    "\\Checats.Persistence\\Configurations",
+    "\\Checats.Persistence\\Entities",
+    "\\ChecatsAPI.API",
+    "\\ChecatsAPI.Domain",
+    "\\ChecatsAPI.Domain\\Models"
+  ],
+  "SelectedNode": "\\ChecatsAPI.sln",
+  "PreviewInSolutionExplorer": false
+}

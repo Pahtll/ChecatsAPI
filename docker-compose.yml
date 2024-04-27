@@ -1,0 +1,20 @@
+﻿services:
+  checatsapi:
+    image: checatsapi
+    build:
+      context: .
+      dockerfile: ChecatsAPI.API/Dockerfile
+  postgres:
+    container_name: postgres
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: "ChecatsDb"
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "Churka1488"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+volumes:
+  postgres-data:
